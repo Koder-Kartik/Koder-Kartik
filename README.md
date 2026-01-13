@@ -1,41 +1,51 @@
-Hi, I’m Kartik Jain  
-==================
+Kartik Jain
+===========
 
-**AI / Machine Learning Engineer (Undergraduate)**
-
-I build **practical AI systems** — not academic demos.
-
-I’m a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, focused on taking projects from **data → model → deployment**. My core interests are **AI in healthcare**, **computer vision**, and **applied machine learning**, where automation improves early decision-making and accessibility.
-
-I work primarily with **Python** (ML, data, deployment) and **C / C++** (core CS fundamentals). I treat ML as engineering, with strong attention to **data quality, evaluation, edge cases, model limits, and ethics**.
-
-I’m looking for **ML / AI internships** where I can contribute to real systems, learn from production code, and take ownership of outcomes.
-
-**No hype. No shortcuts. Just systems that work.**
+**AI / Machine Learning Engineer (Undergraduate)**  
+Building real-world AI systems — not academic demos.
 
 ---
 
-### 🧠 Currently focusing on
-- End-to-end ML projects (data collection → training → deployment)
-- Computer vision for real-world use cases
-- Open-source collaboration and technical documentation
+### 🧠 What I do
+I design and build **end-to-end AI systems**, taking projects from **data → model → deployment**.  
+My work focuses on **AI in healthcare**, **computer vision**, and **applied machine learning**, where correctness, reliability, and ethics actually matter.
+
+I don’t treat AI as magic. I treat it as **engineering**.
 
 ---
 
-### 🛠 Core Skills
-- Languages: **Python, C, C++**
-- ML: **Machine Learning, Deep Learning, CNNs, Computer Vision**
-- Tools: **Git, Docker, Linux (Ubuntu)**
-- Deployment basics: **APIs, cloud fundamentals**
+### 🛠 How I work
+- Write ML code that survives real usage  
+- Obsess over **data quality, evaluation, and failure cases**  
+- Prefer simple, explainable solutions over fragile complexity  
+- Document decisions so others can understand and extend the system  
 
 ---
 
-### 🌍 Info
-- 📍 India  
-- ✉️ jainkartik.work@gmail.com  
-- 🤝 Open to ML / AI internship opportunities  
+### ⚙️ Technical stack
+- **Languages:** Python, C, C++  
+- **ML:** Machine Learning, Deep Learning, CNNs, Computer Vision  
+- **Systems:** Git, Docker, Linux (Ubuntu)  
+- **Deployment:** APIs, cloud fundamentals  
 
 ---
 
-### 🔗 Socials
-[GitHub](https://github.com/koder-kartik) • [LinkedIn](https://www.linkedin.com/in/kartik-jain-b24342316)
+### 🎯 Current focus
+- End-to-end ML projects (problem → solution → delivery)  
+- Medical and social-impact AI use cases  
+- Open-source collaboration & technical writing  
+
+---
+
+### 🤝 What I’m looking for
+**AI / ML internships** where I can contribute to production systems, learn from strong engineers, and take ownership of outcomes.
+
+---
+
+📍 India  
+✉️ jainkartik.work@gmail.com  
+🔗 [GitHub](https://github.com/koder-kartik) • [LinkedIn](https://www.linkedin.com/in/kartik-jain-b24342316)
+
+---
+
+> No hype. No shortcuts. Just systems that work.
