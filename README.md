@@ -11,9 +11,16 @@
 - 💬 **Ask me about:** Machine Learning, Computer Vision, AI in Healthcare, System Design  
 - ⚡ **Fun fact:** I care more about edge cases and failure modes than flashy demos  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-jain-b24342316)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainkartik.work@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kartik-jain-b24342316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kartik-jain-b24342316" height="30" width="40" /></a>
+<a href="https://kaggle.com/koderkartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="koderkartik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@koderkartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@koderkartik" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jain_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jain_kartik" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/koder_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koder_kartik" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/koderkkjoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="koderkkjoh" height="30" width="40" /></a>
+</p>
 
 
 
