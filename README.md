@@ -54,5 +54,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=koder-kartik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I like connecting with different people</b>, so don’t hesitate to say <b>hi</b>. 😊</em>
+
+
 
 
