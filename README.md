@@ -1,4 +1,5 @@
-# Hi 👋, I'm Kartik Jain
+# Hi 👋, I'm Kartik Jain <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
+<h1>
 
 <img align="right" width="360" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
