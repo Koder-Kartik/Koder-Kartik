@@ -65,5 +65,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Koder-Kartik/Koder-Kartik/47c808c9629ea208d0b8010c5bd03fee06842162/img/marquee.svg" />
 <br />
 
+<p align="right"><a href="#top">Back to TOP 🔝 </a></p>
+
 
 
