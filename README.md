@@ -54,6 +54,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=koder-kartik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I like connecting with different people</b>, so don’t hesitate to say <b>hi</b>. 😊</em>
 
 
