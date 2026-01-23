@@ -1,8 +1,9 @@
-# Hi 👋, I'm Kartik Jain <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Kartik+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Kartik Welcome to my Profile! animated typed out">
+<!--<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp; -->
 
 <img align="right" width="360" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-**AI / Machine Learning Engineer (Undergraduate) from India**
+<!--**AI / Machine Learning Engineer (Undergraduate) from India** -->
 
 - 🔭 **I’m currently working on:** Real-world applied ML projects, especially image-based systems  
 - 🌱 **I’m currently learning:** Open-source collaboration, model evaluation, and production-ready ML workflows  
