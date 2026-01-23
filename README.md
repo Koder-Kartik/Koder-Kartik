@@ -56,7 +56,7 @@
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/Koder-Kartik/Koder-Kartik/issues/2"><img src="https://raw.githubusercontent.com/Koder-Kartik/Koder-Kartik/refs/heads/main/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/Koder-Kartik/Koder-Kartik/issues/4"><img src="https://raw.githubusercontent.com/Koder-Kartik/Koder-Kartik/refs/heads/main/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 
