@@ -22,6 +22,12 @@
 <a href="https://www.leetcode.com/koder_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koder_kartik" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/koderkkjoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="koderkkjoh" height="30" width="40" /></a>
 </p>
+<a href="https://drive.google.com/uc?export=download&id=1nZNfYm99KJXfF0XNs4_aWRXDHZ-hLByE" target="_blank">
+    <img src="https://github.com/Koder-Kartik/Koder-Kartik/blob/main/img/DownloadResumeButton.png"
+         width="190"
+         height="35"
+         alt="Download Resume">
+  </a>
 
 
 
